@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\Dino\Dino\bin\Debug\net5.0\Dino.exe
+C:\Users\user\source\repos\Dino\Dino\bin\Debug\net5.0\Dino.deps.json
+C:\Users\user\source\repos\Dino\Dino\bin\Debug\net5.0\Dino.runtimeconfig.json
+C:\Users\user\source\repos\Dino\Dino\bin\Debug\net5.0\Dino.runtimeconfig.dev.json
+C:\Users\user\source\repos\Dino\Dino\bin\Debug\net5.0\Dino.dll
+C:\Users\user\source\repos\Dino\Dino\bin\Debug\net5.0\Dino.pdb
+C:\Users\user\source\repos\Dino\Dino\obj\Debug\net5.0\Dino.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Dino\Dino\obj\Debug\net5.0\Dino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Dino\Dino\obj\Debug\net5.0\Dino.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Dino\Dino\obj\Debug\net5.0\Dino.AssemblyInfo.cs
+C:\Users\user\source\repos\Dino\Dino\obj\Debug\net5.0\Dino.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Dino\Dino\obj\Debug\net5.0\Dino.dll
+C:\Users\user\source\repos\Dino\Dino\obj\Debug\net5.0\refint\Dino.dll
+C:\Users\user\source\repos\Dino\Dino\obj\Debug\net5.0\Dino.pdb
+C:\Users\user\source\repos\Dino\Dino\obj\Debug\net5.0\Dino.genruntimeconfig.cache
+C:\Users\user\source\repos\Dino\Dino\obj\Debug\net5.0\ref\Dino.dll
